@@ -2,15 +2,15 @@
 
 > Companion to the Strategy Spine (Doc 01). Everything here expands the five pillars named in the Spine. Nothing here overrides it. If this doc and the Spine ever disagree, the Spine wins.
 
-This is the content engine for Launch Media: the agency that **builds websites that book more jobs for local home-service and trades businesses in [City] — then runs the marketing that keeps their phone ringing.** The website is the wedge; the retainer is the business. Every video below exists to do one of two jobs: get in front of a right-fit owner who Googles their trade at 9pm, or move a self-identified owner one step closer to commenting **AUDIT** and starting a DM.
+This is the content engine for Launch Media: the agency that **builds websites that book more jobs for home-service and trades businesses — anywhere in the US — then runs the marketing that keeps their phone ringing.** The website is the wedge; the retainer is the business. Every video below exists to do one of two jobs: get in front of a right-fit owner who Googles their trade at 9pm, or move a self-identified owner one step closer to commenting **AUDIT** and starting a DM. We fish a national pond now, so shareable reach compounds alongside search — one great teardown can surface the right plumber, roofer or HVAC owner in *any* state, not just one metro.
 
 **Read this before you script anything:**
 
 - We sell the **outcome** (more calls, booked jobs, looking legit), never the feature ("responsive CMS").
 - We sell the **free audit** in-video, never the build. The build gets sold on the discovery call.
 - We **never roast a named or identifiable business.** Blur it, anonymize it, or roast our own old work.
-- We stay in **one vertical per series.** A plumber has to see a plumber's site to book. "I build websites for small businesses" is too broad to make anyone feel seen.
-- We optimize for **qualified DMs, booked calls, saves and shares** — not views or followers.
+- We stay in **one vertical per series.** A plumber has to see a plumber's site to book. "I build websites for small businesses" is too broad to make anyone feel seen. The **trade callout** — not a city callout — is what makes an owner feel seen now that our market is the whole US.
+- We optimize for **qualified DMs, booked calls, saves and shares** — not vanity views or followers. (Reach now works *for* us: a national market means a shareable video keeps finding right-fit owners in every state.)
 
 ---
 
@@ -29,7 +29,7 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 **Guardrails baked into this mix:**
 
 - **70-80% educational/entertaining, 20-30% offer-forward.** Pillars 1-4 (80%) travel and build trust; only Pillar 5 (20%) is offer-forward, and even that soft-sells the *free audit*, never the build.
-- **Teardowns + before/afters together = 55% of all posts.** These are the two pillars that reliably generate inbound DMs. Weight the calendar toward them.
+- **Teardowns + before/afters together = 55% of all posts.** These are the two pillars that reliably generate inbound DMs. Weight the calendar toward them — and now that we fish a national pond, their shareable reach compounds, surfacing right-fit owners in any state.
 - Don't force the mix week-by-week — hit the ratio over the rolling cycle. Proof content is gated by real results and client permission, so it's the lowest-volume pillar on purpose. Never fabricate a case study to hit a quota.
 
 **A sample 2-week rhythm (8 posts):**
@@ -47,7 +47,7 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 
 **Funnel stage:** Discover (For You + Search). This is the **highest-volume pillar** and the top of the whole funnel.
 
-**Purpose:** Demonstrate expertise on a concrete, real example so owners self-identify — "my site does that too" — in the comments. That self-identification is the entire point: it feeds the algorithm (comments + saves), surfaces warm leads by name, and ranks for "[trade] website" searches. A teardown is a live commercial for the free audit without ever pitching it.
+**Purpose:** Demonstrate expertise on a concrete, real example so owners self-identify — "my site does that too" — in the comments. That self-identification is the entire point: it feeds the algorithm (comments + saves), surfaces warm leads by name, and ranks for "[trade] website" searches. Lead with a **trade callout** ("this plumber," "this roofer"), not a city — that's what makes an owner in any state feel seen, and because the pond is national, a teardown that travels compounds your reach instead of exhausting one metro. A teardown is a live commercial for the free audit without ever pitching it.
 
 **Best format:** Primarily **faceless screen-recording with voiceover** — it keeps production friction low so you can hold a 4/week cadence, and the screen itself proves competence. Cursor-point every flaw. For your one flagship teardown per cycle, use the **hybrid (face-cam bubble in the corner over the screen recording)** because the money videos need your face to build the trust that sells a $3k-$6k build. Always **blur or anonymize the brand.**
 
@@ -55,10 +55,10 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 
 **6-10 video ideas (niche the series to ONE trade at a time):**
 
-1. "3 things killing this [City] plumber's website" — cursor-pointed screen recording, brand blurred.
+1. "3 things killing this plumber's website" — cursor-pointed screen recording, brand blurred.
 2. "POV: you paid your nephew $200 to build your HVAC site" — narrate the predictable mistakes.
-3. "Rating [City] roofer websites until I find one that doesn't need me" — series format, several sites in one video.
-4. "This [City] electrician is losing calls because of this one button" — single-flaw deep dive (no tap-to-call on mobile).
+3. "Rating roofer websites until I find one that doesn't need me" — series format, several sites in one video.
+4. "This electrician is losing calls because of this one button" — single-flaw deep dive (no tap-to-call on mobile).
 5. "This landscaper's site takes 8 seconds to load — here's what that costs him" — load-speed teardown with the lost-jobs math.
 6. "Your hero says 'Welcome to our website.' Here's what it should say instead." — headline teardown across 3 anonymized trades sites.
 7. "I opened this cleaning company's site on my phone and immediately closed it — here's why" — mobile-first teardown (the broken-on-mobile pain).
@@ -82,7 +82,7 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 
 **6-10 video ideas:**
 
-1. "I redesigned a [City] med-spa site in 3 hours — before vs after" (time-lapse, satisfying reveal at the end).
+1. "I redesigned a painter's site in 3 hours — before vs after" (time-lapse, satisfying reveal at the end).
 2. "$500 website vs $5,000 website — same business, split screen" (see Signature Formats; doubles as budget qualifier).
 3. "From this... to booked out — same shop, new site, 5x the calls" with a one-line result overlay.
 4. "Watch me turn this dead Facebook-only trades business into a real site in 60 seconds" (the Facebook-page-only pain, visualized).
@@ -101,7 +101,7 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 
 **Funnel stage:** Discover → Capture. **Trust + search ranking.**
 
-**Purpose:** Answer the exact buyer-intent phrases owners type into TikTok-as-Google, and dissolve the four real objections — *relevance, "I have Facebook," word-of-mouth, price* — in the owner's own language. Every video here is an **evergreen search asset** that keeps pulling for 6-12 months. This is where you rank in low-competition searches within 1-3 days as the big fish in the [City] trades pond.
+**Purpose:** Answer the exact buyer-intent phrases owners type into TikTok-as-Google, and dissolve the four real objections — *relevance, "I have Facebook," word-of-mouth, price* — in the owner's own language. Every video here is an **evergreen search asset** that keeps pulling for 6-12 months. This is where you rank in low-competition trade searches within 1-3 days as the big fish in the niche pond — and now that our market is national, every ranked answer pulls owners from every state, not one metro.
 
 **Best format:** **Talking head** — opinions and myth-busting need your face and conviction ("people book people"). Use a quick **screen-recording** only for the Google-at-9pm demo where you literally show what a searcher sees. Say the target phrase out loud in the first line, put it in the caption front-loaded, and burn it into on-screen text.
 
@@ -136,7 +136,7 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 
 **6-8 video ideas:**
 
-1. "This [City] roofer went from 2 to 11 leads a month after we rebuilt his site" — hard number up front, then the screen proof.
+1. "This roofer went from 2 to 11 leads a month after we rebuilt his site" — hard number up front, then the screen proof.
 2. Screen-recorded proof: client text "phone won't stop ringing" + Google call-clicks before vs after.
 3. "Watch me build a $199/mo site for a local electrician" — process clip with a result attached (ties directly to the WaaS offer).
 4. Client reaction / launch-day reveal, with permission — real face, real "wow."
@@ -162,11 +162,11 @@ Cadence is **4 posts/week on a fixed schedule (Tue / Wed / Thu / Sat), sustained
 1. "Free website teardown — send your link, I'll show you 3 things costing you customers. No pitch." (the core DM-magnet video.)
 2. "How our 7-day website build actually works — $0 down, $199/mo, cancel anytime, you own it." (de-risk the WaaS offer, plainly.)
 3. "The guarantee stack: don't pay until you love it, 90-day leads guarantee, cancel anytime — here's why I can offer that."
-4. Day-in-the-life running a [City] web agency / a real client kickoff call.
-5. "Taking 3 [City] home-service businesses this month — comment your city if you want a spot." (scarcity + local signal.)
+4. Day-in-the-life running a nationwide web agency for trades / a real client kickoff call.
+5. "Taking 3 home-service businesses this month — comment your trade if you want a spot." (scarcity + trade signal.)
 6. "Why I build the website near-breakeven — and what I actually do after" (honest founder POV; frames the retainer without pitching it hard).
 7. "What happens on a free teardown call — I'm just going to show you your 3 biggest leaks." (pre-frames the discovery call, kills the sales-y fear.)
-8. "I only work with [City] trades — here's why that's better for you." (niche + de-risk in one.)
+8. "I only work with home-service and trades businesses — here's why that niche makes me better for you." (niche + de-risk in one.)
 
 **Keyword CTA:** "Comment **AUDIT** (or DM me the word AUDIT) and I'll send your free teardown." See the funnel note below — the DM automation is what captures the lead.
 
@@ -190,14 +190,14 @@ These are the named, batch-able formats you rerun forever. Each is a template �
 ### 1. Website Teardown
 - **Pillar / stage:** 1 / Discover. **Format:** faceless screen-record + voiceover (hybrid for flagship). **Length:** 30-60s.
 - **Beats:** (1) Hook naming the stakes in 2s → (2) show the real anonymized site → (3) call out **exactly 3 flaws** with your cursor (no CTA above the fold / phone not tap-to-call on mobile / hero headline that says nothing / 5-second load) → (4) mock or rebuild one fix → (5) keyword CTA.
-- **On-screen text:** hook line top-third; number each flaw ("#1", "#2", "#3"); burn the keyword ("[City] [trade] website").
-- **Hook bank:** "This is the worst [trade] website I've seen this week." / "This [City] plumber is losing calls because of this one button." / "POV: you paid your nephew $200 for this."
+- **On-screen text:** hook line top-third; number each flaw ("#1", "#2", "#3"); burn the keyword ("[trade] website").
+- **Hook bank:** "This is the worst [trade] website I've seen this week." / "This plumber is losing calls because of this one button." / "POV: you paid your nephew $200 for this."
 - **CTA:** "Comment ROAST for yours." **Frequency:** 6 / cycle.
 
 ### 2. Small Biz Site Roast ("Rating [niche] websites until I find one that doesn't need me")
 - **Pillar / stage:** 1 / Discover. **Format:** faceless screen-record + voiceover. **Length:** 40-60s.
 - **Beats:** Rapid-fire rate 3-5 anonymized [niche] sites out of 10, one flaw each, escalating — the open loop is "will any of them pass?" End on one that's genuinely decent (validates the niche, avoids pure negativity).
-- **On-screen text:** running score ("6/10", "4/10"); niche + city keyword.
+- **On-screen text:** running score ("6/10", "4/10"); the trade/niche keyword.
 - **CTA:** "Comment your trade — I'll rate yours next." **Frequency:** ~2 / cycle.
 
 ### 3. UGC Roast ("Drop your website in the comments and I'll roast it")
@@ -208,7 +208,7 @@ These are the named, batch-able formats you rerun forever. Each is a template �
 
 ### 4. Before & After Redesign
 - **Pillar / stage:** 2 / Engage. **Format:** split-screen or time-lapse, face-cam bubble optional. **Length:** 20-45s.
-- **Beats:** (1) hook on the "before" ("this is a real [City] [trade] site") → (2) hold on the pain for 2s → (3) reveal the "after" (satisfying cut/transition) → (4) overlay a one-line result if you have it → (5) soft CTA.
+- **Beats:** (1) hook on the "before" ("this is a real [trade] site") → (2) hold on the pain for 2s → (3) reveal the "after" (satisfying cut/transition) → (4) overlay a one-line result if you have it → (5) soft CTA.
 - **On-screen text:** "BEFORE" / "AFTER" labels; result overlay ("5x the calls"); keyword.
 - **CTA:** "Comment AUDIT for your before/after." **Frequency:** ~4 / cycle.
 
@@ -272,12 +272,12 @@ The rule from the Spine: **shoot on a phone with good light and accurate burned-
 
 ### Captions (non-negotiable — they feed SEO)
 - **Burn captions into every video.** They add ~12% retention and TikTok indexes on-screen text (~30% of SEO weight).
-- Auto-generate in CapCut, then **correct every word** — auto-captions mangle "[City]", trade names, and prices, and those are your exact keywords.
+- Auto-generate in CapCut, then **correct every word** — auto-captions mangle trade names, prices, and "near me" phrases, and those are your exact keywords.
 - Keep them mid-screen, high-contrast, 2-4 words at a time, sans-serif, big.
 
 ### On-screen text
 - **Hook text in the first frame**, upper third (not hidden behind the TikTok UI on the right or bottom).
-- **Burn your target keyword** on screen — say it out loud *and* show it (caption ~40%, on-screen ~30%, hashtags ~20%, audio ~10% of SEO weight). Say the **city and the niche in the first line.**
+- **Burn your target keyword** on screen — say it out loud *and* show it (caption ~40%, on-screen ~30%, hashtags ~20%, audio ~10% of SEO weight). Say the **trade/niche in the first line.**
 - Teardowns: use **cursor callouts, circles, and arrows** to point at each flaw. Number them ("#1, #2, #3").
 - Before/afters: clear **BEFORE / AFTER** labels and a one-line **result overlay** on the "after."
 
@@ -302,7 +302,7 @@ For teardowns and "watch me build" videos, use the **face-cam bubble over a scre
 ### Consistency checklist for every single video
 
 - [ ] Hook lands in the first 3 seconds (problem or site on screen, no intro)
-- [ ] City + niche said out loud in the first line
+- [ ] Trade/niche said out loud in the first line
 - [ ] Target keyword said aloud, in the caption (front-loaded), and burned on screen
 - [ ] Captions burned in and corrected
 - [ ] Leads with the outcome (calls/jobs/looking legit), not the feature
@@ -310,5 +310,5 @@ For teardowns and "watch me build" videos, use the **face-cam bubble over a scre
 - [ ] No named/identifiable business roasted (blurred or your own old work)
 - [ ] No jargon, no hard-sell of the build — CTA sells the **free audit** only
 - [ ] One keyword CTA (AUDIT / ROAST / WEBSITE / GUIDE) wired to the DM → email flow
-- [ ] 3-5 hashtags: 1 broad + 2-3 niche + 1 local (#[City]smallbusiness)
+- [ ] 3-5 hashtags: 1 broad + 2-4 trade/niche (#plumbertok #hvac #electrician #roofing #trades #websitedesign) — trade, never local
 - [ ] 30-90s, original audio, phone-shot and raw — not agency-glossy

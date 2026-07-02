@@ -1,6 +1,6 @@
 # Launch Media — TikTok → Website Sales Playbook
 
-> **The one-line strategy:** Sell websites to local home-service businesses on TikTok. The website is the wedge — a concrete, visible, low-risk first purchase. The recurring marketing retainer is the actual business.
+> **The one-line strategy:** Sell websites to home-service and trades businesses across the US on TikTok. The website is the wedge — a concrete, visible, low-risk first purchase. The recurring marketing retainer is the actual business.
 
 ---
 
@@ -18,7 +18,7 @@ We do the opposite. We lead with **websites** because a website is the single ea
 
 - **Websites are the wedge, retainers are the business.** The Starter build is a near-breakeven foot-in-the-door offer. Its job is to win trust and prove competence — not to make money. The recurring Growth Partner retainer (local SEO / Google Ads / content) is the profit center, pitched in month 2–3 once the site is live and producing wins.
 - **Websites-first because it's the lowest-friction, most demonstrable, most de-riskable first purchase.** A concrete outcome (a site that looks legit and captures the 76% of "near me" searchers who act within 24 hours) beats an abstract "marketing" promise. It's the easiest service to show on short-form video, and $0-down monthly WaaS kills the upfront-cash objection that murders cold social deals.
-- **We're not chasing virality — we're ranking for buyer-intent search.** TikTok is a dual engine: For You discovers you, but **Search is where lead-gen compounds.** A 200-follower account can rank and book clients because content relevance beats follower count. Every video is an evergreen search asset answering one question an owner would type.
+- **Search converts — and now reach compounds too.** TikTok is a dual engine: For You gives you national reach, and **Search is where buyer-intent lead-gen compounds.** Because our market is now the entire US, we're fishing a national pond, not cornering one town — so broad-appeal, shareable home-services content is an asset, not a distraction. A 200-follower account can still rank and book clients because content relevance beats follower count, and every video is an evergreen search asset answering one question an owner would type.
 - **We measure leads, not vanity.** A video with 900 views that produced 3 discovery calls beats one with 90k views and zero. We optimize for qualified DMs, saves/shares, and booked calls — never followers.
 
 ---
@@ -26,10 +26,10 @@ We do the opposite. We lead with **websites** because a website is the single ea
 ## Positioning & ICP (the spine — everything downstream obeys this)
 
 ### Positioning statement
-> Launch Media builds websites that book more jobs for local home-service and trades businesses in your city — then runs the marketing that keeps their phone ringing.
+> Launch Media builds websites that book more jobs for home-service and trades businesses — anywhere in the US — then runs the marketing that keeps their phone ringing.
 
 ### Who we sell to (primary ICP)
-Owner-operators of **local home-service and trades businesses** — plumbers, HVAC, electricians, roofers, landscapers, cleaners, garage-door, pest control — in a **single metro/DMA**, typically **$150k–$2M revenue, 1–15 employees**, who have **no website, a Facebook-page-only presence, or a dated site that's broken on mobile.**
+Owner-operators of **home-service and trades businesses** — plumbers, HVAC, electricians, roofers, landscapers, cleaners, garage-door, pest control, painters — **anywhere in the US**, typically **$150k–$2M revenue, 1–15 employees**, who have **no website, a Facebook-page-only presence, or a dated site that's broken on mobile.** We're open to any small business, but the lane is home services & trades. Note the flip: *our* market is national — websites and marketing are delivered remotely, so location doesn't limit us — but **each client is still a local business** (a plumber in Ohio serves Ohio). On TikTok we niche by **trade**, not city.
 
 We chose this niche on purpose:
 - **High per-job value** makes the one-customer ROI math undeniable (one roofing job can pay for a year of the site).
@@ -50,7 +50,7 @@ We chose this niche on purpose:
 A competitor outranking them · a rebrand/new location · an embarrassment moment (they Googled themselves) · a specific lost deal or bad review · **seeing one of our teardowns and thinking "that's my site."**
 
 ### Brand voice (non-negotiable)
-Raw, plain-spoken, founder-to-camera — a real local expert, **not an agency "brand."** Talk in the owner's language: *calls, booked jobs, deposits, "looking legit," "showing up when someone Googles you at 9pm"* — never "responsive CMS / UX / SEO stack." Validate what they're doing right (word of mouth, hustle) **before** showing the gap. Education and critique first; selling comes last. **70–80% educational/entertaining, 20–30% offer-forward.**
+Raw, plain-spoken, founder-to-camera — a real person who actually gets home-service businesses, **not an agency "brand."** Make viewers self-identify by **trade**, not city — call out the trade in the first line (*"If you're a plumber and your website looks like this…"*) and/or "your town," never a specific metro. Talk in the owner's language: *calls, booked jobs, deposits, "looking legit," "showing up when someone Googles you at 9pm"* — never "responsive CMS / UX / SEO stack." Validate what they're doing right (word of mouth, hustle) **before** showing the gap. Education and critique first; selling comes last. **70–80% educational/entertaining, 20–30% offer-forward.**
 
 ---
 
@@ -96,12 +96,12 @@ Lead cold TikTok buyers to the **$0-down monthly** option — it kills sticker s
 
 Do these in order. This is the ignition sequence — don't skip to filming before the account is set up to convert.
 
-- [ ] **Lock the niche + city.** Pick ONE lane (e.g. "websites for Dallas home-service businesses"). Read `docs/01`. Every video must make an ICP think "that's me" and everyone else scroll past.
+- [ ] **Lock your trade lane.** Pick your primary trade lane (e.g. "websites for plumbers") — or lead with "home-service businesses" broadly. Read `docs/01`. Every video must make an ICP think "that's me" and everyone else scroll past. Niche by trade, not city — we serve the whole US.
 - [ ] **Set up the account for conversion.** Switch to a **Business account** (clickable link, no follower minimum, ManyChat eligibility). Rewrite the bio to the formula: *what you do + who for + proof + specific CTA.* Point the link **straight at a Calendly booking page** — never your homepage. See `docs/06` and `docs/09`.
 - [ ] **Stand up the tool stack.** Calendly (direct booking + reminders), ManyChat (keyword auto-DM, DMs set to "Everyone"), a one-page link hub, and an email tool to deliver the teardown. UTM-tag the booking link and add a "how did you find me?" field. See `docs/09`.
 - [ ] **Wire the "AUDIT" automation.** One keyword (`AUDIT`). Flow: capture email in-DM → confirm → ask one pain question → deliver teardown + booking link by email. See `docs/06`.
 - [ ] **Build your search-first content list.** Brainstorm 30–50 exact phrases owners type ("how much does a small business website cost," "why isn't my business on Google Maps"). One video per phrase. See `docs/05` and `docs/08`.
-- [ ] **Batch-film your first 8 videos in one session.** Weight toward teardowns + before/afters (anonymize/blur every real business). Read the templates in `docs/04`. Phone, good light, accurate burned-in captions, city + niche said out loud in the first line.
+- [ ] **Batch-film your first 8 videos in one session.** Weight toward teardowns + before/afters (anonymize/blur every real business). Read the templates in `docs/04`. Phone, good light, accurate burned-in captions, the trade said out loud in the first line.
 - [ ] **Pin 3 videos:** (1) a client result/case study, (2) a free-audit teardown, (3) a "how working with me actually works" explainer. These sell before the DM.
 - [ ] **Post 4×/week on a fixed schedule** (e.g. Tue/Wed/Thu/Sat) and commit to **90 days before judging results.** Follow `docs/03`.
 - [ ] **Work the golden hour.** Reply to every comment in the first 30–60 minutes, and answer buyer questions with a **Video Reply** that becomes its own searchable post.
@@ -118,7 +118,7 @@ Track what predicts revenue. Review these **weekly**; judge the strategy at **90
 | **Discovery calls booked/week** | The real pipeline metric, attributed via UTM'd Calendly + "how did you find me?" | Grows as content compounds |
 | **Saves + shares per video** | Highest-value engagement for a service business — a save = "I'll hire this person later" | Watch which pillars earn them |
 | **Video completion rate** | The #1 ranking signal; the bar for a second push is now ~70% | **~70%+** |
-| **Search ranking / impressions on target phrases** | Where lead-gen compounds; ranking appears in 1–3 days, peaks in 7–14, pulls views for 6–12 months | Rank top results in your low-competition local searches |
+| **Search ranking / impressions on target phrases** | Where lead-gen compounds; ranking appears in 1–3 days, peaks in 7–14, pulls views for 6–12 months | Rank top results in your low-competition, high-intent target phrases |
 | **Wedge clients closed/month** | Proof the funnel converts | Set your own floor |
 | **Wedge → retainer ascension rate** | % of website clients on a Growth Partner retainer by month 3 — *this is the business* | Push it up every quarter |
 | **MRR** (WaaS + retainers) | The number that actually compounds | Up and to the right |

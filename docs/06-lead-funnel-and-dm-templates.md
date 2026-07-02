@@ -10,7 +10,7 @@ Rule of thumb before you use anything below: **we sell the free audit, never the
 
 | Stage | Where it happens | Your job | The one metric |
 |---|---|---|---|
-| 1. Discover | For You + Search | Get in front of right-fit local owners with teardowns / before-afters | Video completion (~70%) + keyword-phrase impressions |
+| 1. Discover | For You + Search | Get in front of right-fit home-service & trades owners nationwide with teardowns / before-afters | Video completion (~70%) + keyword-phrase impressions |
 | 2. Engage | Comments | Turn a watcher into an on-platform action | Comments/saves/shares per video |
 | 3. Capture | DMs | Start the 1:1 and deliver the free audit | Qualified DMs / keyword DMs per week |
 | 4. Qualify & Book | DMs → Calendly | Ask one fit question, send straight to the calendar | Discovery calls booked per week |
@@ -40,30 +40,30 @@ This is a genuine tradeoff, not a formality. Decide based on **whether your bott
 
 **Our recommendation for Launch Media:**
 - **If you're brand new and reach is your bottleneck** (you need the funnel to fill), start on **Creator** so you can ride viral sounds, and use a link hub or "DM me AUDIT" for capture until you cross ~1,000 followers.
-- **The clean long-term setup:** run **two accounts** — a Creator personal account for growth/experiments, and a **Business account as your main sales machine** (clickable Calendly link + booking button + ManyChat automation). Most established local-agency operators land here because our KPI is *booked calls*, not vanity reach, and our teardown/before-after content doesn't live or die on trending audio.
+- **The clean long-term setup:** run **two accounts** — a Creator personal account for growth/experiments, and a **Business account as your main sales machine** (clickable Calendly link + booking button + ManyChat automation). Most established agency operators land here because our KPI is *booked calls*, not vanity reach, and our teardown/before-after content doesn't live or die on trending audio.
 - Do **not** sit on a Business account while reach is your bottleneck — you'll lose viral sounds and starve the top of the funnel.
 
 ### The bio formula
 
 **[what you do] + [who it's for] + [proof/result] + [specific CTA]**
 
-Copy-paste starters (swap in your real numbers and city — never inflate):
+Copy-paste starters (swap in your real numbers and trades — never inflate):
 
 ```
-I build websites that book more jobs for [City] home-service pros
+I build websites that book more jobs for home-service & trades pros — US-wide
 | 100+ launched | $0 down, live in 7 days
 Free 3-min teardown of YOUR site 👇
 ```
 
 ```
-Websites that make [City] contractors look legit + show up on Google
+Websites that make contractors look legit + show up on Google
 | Plumbers • HVAC • Roofers • Electricians
 Free website teardown 👇 DM me the word AUDIT
 ```
 
 ```
 Your competitor isn't better — their website just shows up first.
-I fix that for [City] trades. 90-day leads guarantee.
+I fix that for home-service & trades businesses (US). 90-day leads guarantee.
 Free audit 👇
 ```
 
@@ -78,8 +78,8 @@ Keep it in the owner's language — "book more jobs," "show up on Google," "look
 
 ### Pin 3 videos — these sell before the DM
 
-1. **A result / case study** — hard number up front. *"This [City] roofer went from 2 to 11 leads a month after we rebuilt his site."* (Pillar 4 — Proof.)
-2. **A free-audit teardown of a real (anonymized) site** — shows exactly what the free audit is. *"3 things killing this [City] plumber's website."* (Pillar 1 — Teardowns.)
+1. **A result / case study** — hard number up front. *"This roofer went from 2 to 11 leads a month after we rebuilt his site."* (Pillar 4 — Proof.)
+2. **A free-audit teardown of a real (anonymized) site** — shows exactly what the free audit is. *"3 things killing this plumber's website."* (Pillar 1 — Teardowns.)
 3. **A "how it works / what a project looks like" explainer** — $0 down, live in 7 days, you own it, cancel anytime. De-risks sending you money. (Pillar 5 — Offer/Process.)
 
 A fence-sitter who lands on your profile from any single video should be able to see proof, see the free offer, and understand how to work with you — without leaving the profile.
@@ -136,7 +136,7 @@ Two legit paths:
 
 ### The two-CTA stack (spoken, in-video)
 
-> "Comment your trade so more [City] owners see this — then **DM me the word AUDIT** and I'll send you a free teardown of your site with the 3 things costing you calls. No pitch."
+> "Comment your trade so more owners in your line of work see this — then **DM me the word AUDIT** and I'll send you a free teardown of your site with the 3 things costing you calls. No pitch."
 
 Pick **ONE keyword** and burn it in everywhere — **AUDIT** is our default. Never use "hi" or "help" (too generic, false triggers). Test one CTA per week; track DM volume and link clicks.
 
@@ -147,7 +147,7 @@ Pick **ONE keyword** and burn it in everywhere — **AUDIT** is our default. Nev
 | **Default video close** | "DM me the word **AUDIT** and I'll send you a free teardown of YOUR site — 3 things costing you calls, no pitch." |
 | **Engagement-first (reach)** | "Comment your city and I'll tell you the #1 thing killing your leads." |
 | **Niche self-ID** | "Comment your trade and I'll tell you the first thing I'd fix on your site." |
-| **Scarcity / local** | "Taking **3 [City] home-service businesses** this month — comment your city if you want a spot." |
+| **Scarcity** | "Taking **3 home-service & trades businesses** this month — comment your trade if you want a spot." |
 | **Booking urgency** | "Book the free teardown before Friday — link in bio (straight to my calendar)." |
 | **Mockup (high intent)** | "Want to SEE what your homepage could look like? DM **AUDIT** and I'll mock one up free." |
 
@@ -158,11 +158,11 @@ Pick **ONE keyword** and burn it in everywhere — **AUDIT** is our default. Nev
 Front-load the target search phrase, then the CTA:
 
 ```
-[City] plumber websites are losing calls at 9pm — here's the fix.
-DM me AUDIT for a free teardown of yours. #[city]plumber #localbusiness #websitedesign #smallbusinesstips
+Plumber websites are losing calls at 9pm — here's the fix.
+DM me AUDIT for a free teardown of yours. #plumber #localbusiness #websitedesign #smallbusinesstips
 ```
 
-3–5 hashtags: broad + niche + local.
+3–5 hashtags: broad + niche + trade. (Reach nationally — a viewer in any state can be a lead — and the niche/trade tags do the targeting, not a city tag.)
 
 ---
 
@@ -187,11 +187,11 @@ Msg 1: Hey! Happy to run your free website teardown 🙌
 Msg 2: Perfect — sending your teardown to {email} now.
         Check your inbox in a few minutes 📩
 
-Msg 3: Quick one while you're here: what's the #1 thing you
-        wish your website did better right now?
+Msg 3: Quick one while you're here: what city/area do you serve,
+        and what's the #1 thing you wish your website did better?
 ```
 
-Their reply to Msg 3 hands you the pain point and reopens a fresh 48-hour window. From there you go manual.
+Their reply to Msg 3 hands you the pain point **and their local market** (every lead is local to somewhere — you'll need their town/service area to talk about how their customers search), and reopens a fresh 48-hour window. From there you go manual.
 
 ---
 
@@ -244,6 +244,13 @@ a rebrand, or just tired of the current site?
 ```
 When someone gets referred to you and Googles your name — are you
 happy with what they see?
+```
+
+Whatever you lead with, **grab their location early.** We reach owners nationwide now, so every lead is local to *somewhere* — you need their town/service area to talk about how their customers search and to tailor the teardown:
+
+```
+And whereabouts are you based / what's your service area? Want to make
+sure the teardown speaks to how people find you locally.
 ```
 
 Read the answer for the **buying trigger** (competitor outranking, rebrand, embarrassment moment, lost deal). If they name one, that's a hot lead — move to book.
@@ -328,10 +335,10 @@ teardown with that in mind? Free, same as before.
 
 ### Template F — Value-first cold outreach (prospecting)
 
-For proactively DMing right-fit local owners you find (not inbound). Full 5-beat structure. **Lead with value, never the ask.** Personalize beat 1 with a real detail — this is what gets ~32% response instead of getting ignored.
+For proactively DMing right-fit home-service & trades owners you find (not inbound) — anywhere in the US. Full 5-beat structure. **Lead with value, never the ask.** Personalize beat 1 with a real detail — this is what gets ~32% response instead of getting ignored.
 
 ```
-1. Hey [Name] — came across [business] here in [City], love what you're
+1. Hey [Name] — came across [business] and love what you're
    doing with [specific real detail — e.g. the reviews, the truck wrap,
    the service area].
 
@@ -388,6 +395,7 @@ you're trying to reach."
 
 Then dig for **situation → pain → trigger → cost.** Questions:
 
+- "Whereabouts are you based, and what's your service area?" *(every lead is local to somewhere — nail their town/radius so you can talk about how their customers actually search)*
 - "Where do most of your jobs come from right now?"
 - "When a referral Googles your name at 9pm, what do you think they see?"
 - "What made you want the teardown — was there a specific moment?" *(hunting for the trigger: competitor, rebrand, embarrassment, lost deal)*
@@ -402,7 +410,7 @@ Now — and only now — connect what you heard to a package. Sell the outcome, 
 
 ```
 "Based on what you told me, here's what I'd build you: a site that shows
-up when someone searches '[trade] near me' in [City], lets them tap-to-call
+up when someone searches '[trade] near me' in your town, lets them tap-to-call
 in one thumb-press, and captures the 76% of those people who call within a
 day. You told me one customer is worth [$X] — this needs to land you one
 extra job to pay for itself, and it's built to land a lot more than one.
@@ -462,7 +470,7 @@ Use these in DMs, on the call, and (reworked) as objection-busting content. Alwa
 > "Fair — a lot of agencies deserve that. That's why it's $0 down, you don't pay until you love it, you own the site, and you can cancel anytime. If I don't deliver, you're not stuck. The risk is on me, not you."
 
 **"I don't think I need a website / not relevant to my trade."**
-> "97% of people search online before they hire a local pro, and 76% of 'near me' searches call within a day. If a ready-to-buy customer looks for a [trade] in [City] tonight and can't find you, they're calling whoever *does* show up. That's not a website problem — it's a lost-customer problem."
+> "97% of people search online before they hire a local pro, and 76% of 'near me' searches call within a day. If a ready-to-buy customer looks for a [trade] in your town tonight and can't find you, they're calling whoever *does* show up. That's not a website problem — it's a lost-customer problem."
 
 **"Let me think about it."**
 > "Of course — it's your money and your business. What specifically do you want to think through? Usually it's one of three things: is it worth it, will it actually work, or is now the right time — happy to talk through whichever it is right now." *(surfaces the real objection instead of a stall)*

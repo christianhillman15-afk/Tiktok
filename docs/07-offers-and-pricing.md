@@ -64,7 +64,7 @@ For an owner who wants the phone to actually ring.
 **$3,500–$6,000 one-time** OR **$0 down + $249–$399/mo.** Position as the best value; most leads should land here.
 
 ### Pro — "Get Scale" (price anchor + light retainer)
-For established businesses ready to dominate the metro.
+For established businesses ready to dominate their local market.
 - Everything in Growth, **plus:**
 - 10+ pages, ecommerce or booking-with-payments
 - Advanced integrations, A/B testing / CRO

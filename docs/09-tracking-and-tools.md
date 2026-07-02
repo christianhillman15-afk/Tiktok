@@ -35,7 +35,7 @@ One row per lead, from the moment they comment/DM to the moment they close and (
 | Date first contact | 2026-07-08 | Cohort/velocity tracking |
 | Name / handle | @joesplumbing | Who |
 | Business + niche | Joe's Plumbing (plumber) | ICP fit check |
-| City / DMA | `[City]` | Local fit |
+| Client city / state | Columbus, OH | Every lead is local to *somewhere* — capture it (you serve nationwide, they serve one town) |
 | **Source video** | "3 things killing this plumber's site" | **The attribution link — which content books calls** |
 | Entry point | Comment `AUDIT` / DM / bio link | Which CTA worked |
 | Stage | DM → Call booked → Called → Proposal → **Won**/Lost/Nurture | Pipeline position |

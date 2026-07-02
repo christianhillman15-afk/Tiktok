@@ -6,16 +6,16 @@
 
 ## 1. The Positioning Statement (canonical — do not reword)
 
-> **Launch Media builds websites that book more jobs for local home-service and trades businesses in [City] — then runs the marketing that keeps their phone ringing.**
+> **Launch Media builds websites that book more jobs for home-service and trades businesses — anywhere in the US — then runs the marketing that keeps their phone ringing.**
 
 Read that twice. Every word is load-bearing:
 
 - **"book more jobs"** — not "a website." Owners don't buy pages; they buy booked jobs, calls, and deposits. We sell the outcome.
-- **"local … in [City]"** — we are the local expert, not a faceless agency. Say the city out loud in the first line of every video.
-- **"home-service and trades"** — one clear niche. A plumber has to *see themselves* to book. Generic "I build websites" doesn't resurface to buyers.
+- **"anywhere in the US"** — *our* market is national. We build and run marketing remotely, so we're never capped by one city's supply of businesses. But note the nuance below: **each client is still a local business** — we make a plumber in any town own their local "near me" search.
+- **"home-service and trades"** — one clear niche, national in scope. A plumber has to *see themselves* to book. Generic "I build websites" doesn't resurface to buyers. On TikTok we self-identify viewers by **trade**, not city.
 - **"then runs the marketing…"** — the website is the door in. The recurring retainer is the business. This is baked into the positioning from day one.
 
-**One-liner for your bio / intro:** *"I build websites that get [City] home-service businesses found on Google — and booked."*
+**One-liner for your bio / intro:** *"I build websites that get home-service businesses found on Google — and booked."*
 
 ---
 
@@ -53,19 +53,23 @@ We price the build low *on purpose* to win trust, then ascend proven clients int
 
 ### Who they are (the one-line filter)
 
-> **Owner-operators of local home-service and trades businesses in the [City] metro, $150k–$2M revenue, 1–15 employees, who have NO website, a Facebook-page-only presence, or a dated site that's broken on mobile.**
+> **Owner-operators of home-service and trades businesses across the US, $150k–$2M revenue, 1–15 employees, who have NO website, a Facebook-page-only presence, or a dated site that's broken on mobile.**
+
+We're open to any small business, but **the lane is home services and trades.** That focus is what makes the content resurface to buyers.
 
 ### Why this niche on purpose (not by accident)
 
 - **High per-job value makes the ROI math undeniable.** One roofing job is $10k+. If the site lands even one extra job, it paid for itself many times over. The one-customer math only works when jobs are worth real money.
-- **They live and die by "near me" search intent.** 46% of Google searches are local; ~1.5B "near me" searches happen monthly; 76% of near-me searchers call or visit within 24 hours. These businesses are exactly the ones a ready-to-buy customer hunts for on their phone.
+- **They live and die by "near me" search intent.** 46% of Google searches are local; ~1.5B "near me" searches happen monthly; 76% of near-me searchers call or visit within 24 hours. Wherever a client operates, a ready-to-buy customer is hunting for them on their phone — this is still true per-client, in every town.
 - **They're the segment most likely to be invisible** when that customer looks. That gap *is* our product.
+- **It's a huge, nationwide TAM.** There are millions of home-service and trades businesses in the US, and most are invisible online. Because we deliver remotely, we're never capped by one city's supply of businesses — we can be the go-to website person for the entire trade, coast to coast.
+- **Trade-specific content lets viewers self-identify.** A plumber, an HVAC tech, a roofer each has to think "that's MY website" to book. Niching content by *trade* — not city — is what turns a national audience into warm leads.
 
 ### Fit checklist (qualify / disqualify fast)
 
 **Green light (right-fit):**
 - [ ] Home-service / trades / local service business
-- [ ] Serves a defined local area around [City] (not national/ecommerce)
+- [ ] Serves a defined local area around their town (not national/ecommerce) — *the client is local even though we aren't*
 - [ ] No site, Facebook-only, or a site that's broken/ugly on mobile
 - [ ] Owner-operator or small team (1–15) — the decision-maker is reachable
 - [ ] Jobs worth $300+ (so one-customer math lands)
@@ -76,21 +80,21 @@ We price the build low *on purpose* to win trust, then ascend proven clients int
 - Businesses with no local search intent (they don't get Googled by name/service)
 - Anyone who needs a $50k custom build — not our lane
 
-### The niches to target (pick ONE per content series)
+### The verticals to target (pick your primary trade lane per content series)
 
-Niche the *content* to a single vertical at a time — a plumber scrolling "3 things wrong with [City] plumber websites" is a far warmer lead than someone watching generic design tips. Here are seven to run, why each fits, and their specific website pain.
+Niche the *content* to a single trade at a time — a plumber scrolling "3 things wrong with plumber websites" is a far warmer lead than someone watching generic design tips. Each of these is a **national vertical**: a huge base of local operators, all with the same website pain, all reachable in one series. Here are seven to run, why each fits, and their specific website pain.
 
-| Niche | Typical job value | Why it's a great fit | Their specific website pain |
+| National vertical | Typical job value | Why it's a great fit | Their specific website pain |
 |---|---|---|---|
-| **Plumbers** | $200–$10k (repipe, water heater) | Emergency + high urgency; textbook "near me at 9pm" intent | Panicked searcher can't find a tap-to-call button at 2am; a Facebook page doesn't surface; competitor with click-to-call gets the burst pipe call |
+| **Plumbers** | $200–$10k (repipe, water heater) | Emergency + high urgency; textbook "near me at 9pm" intent; found in every town in the country | Panicked searcher can't find a tap-to-call button at 2am; a Facebook page doesn't surface; competitor with click-to-call gets the burst pipe call |
 | **HVAC** | $5k–$15k (install) | Seasonal demand spikes; financeable big-ticket installs; tune-up recurring revenue | Invisible during the first heatwave/cold snap when demand floods search; no online way to book a tune-up; competitor's booking widget eats the season |
 | **Roofers** | $8k–$25k+ | Very high ticket; storm-driven demand; huge trust/credibility gap (storm-chaser scams everywhere) | Homeowner vets hard after a referral — no reviews, no proof, no legit site = they pick the guy who *looks* trustworthy; polished storm-chasers out-legit them |
-| **Electricians** | $150–$5k+ (panel, EV chargers) | Safety = trust matters; EV-charger installs are a surging new-demand trigger | "Licensed & insured" trust signals nowhere on the site; no service page for "EV charger install [City]," so they never rank for the new money |
+| **Electricians** | $150–$5k+ (panel, EV chargers) | Safety = trust matters; EV-charger installs are a surging new-demand trigger | "Licensed & insured" trust signals nowhere on the site; no service page for "EV charger install near me," so they never rank for the new money |
 | **Landscapers / lawn care** | $50–$500/visit + $2k–$20k projects | Deeply visual work (before/afters are native); seasonal rush; recurring contracts | Gorgeous work, zero photos online; Facebook-only; can't capture the spring lead flood or sell recurring maintenance contracts |
 | **Cleaning services** | $120–$400/clean, recurring | Recurring revenue; quote/booking-driven; owner is time-poor and hands-on | No instant quote or online booking = friction kills leads; competing bare-handed against franchises (Merry Maids) with slick sites and booking flows |
 | **Garage-door / pest control** | $150–$3k | Urgent, specific-search intent (broken door = can't leave; pests = act now); mid-ticket | Emergency intent with no click-to-call; national chains dominate the local map pack while the local guy is invisible |
 
-**Same playbook, more verticals to pull from:** appliance repair, fencing/decking, painters, pool service, tree service, junk removal, mobile detailing, locksmiths. Rotate one per content series.
+**Same playbook, more verticals to pull from:** appliance repair, fencing/decking, painters, pool service, tree service, junk removal, mobile detailing, locksmiths. Rotate one trade per content series.
 
 ### Secondary verticals (later — don't dilute now)
 
@@ -120,7 +124,7 @@ Talk **entirely in the owner's language** — calls, booked jobs, deposits, "loo
 > **"A customer just heard about you and typed your name into Google at 9pm. What do they see?"**
 > *(Cut to an empty result, a thin Facebook page, or a site broken on mobile.)*
 
-This single line dissolves "I don't need a website" instantly and works for any niche.
+This single line dissolves "I don't need a website" instantly and works for any trade.
 
 ### Owner-brain phrases to use (burn into on-screen text)
 
@@ -154,7 +158,7 @@ This single line dissolves "I don't need a website" instantly and works for any 
 
 Always convert the fee into **jobs or customers**, never a project total. Owners think in "one job."
 
-> **Voice guardrails (from the brand voice spec):** Validate what they're doing right (word of mouth, hustle) *before* showing the gap — never insult their success. Never roast a *named/identifiable* business (blur, anonymize, or roast your own old work). Lead with the outcome, not the feature. Education and critique first, selling last.
+> **Voice guardrails (from the brand voice spec):** Validate what they're doing right (word of mouth, hustle) *before* showing the gap — never insult their success. Never roast a *named/identifiable* business (blur, anonymize, or roast your own old work). Say the **trade** out loud first — not the city — so viewers self-identify. Lead with the outcome, not the feature. Education and critique first, selling last.
 
 ---
 
@@ -174,8 +178,8 @@ Every objection below has a **content asset** attached (see Content Pillar 3: Ob
 | **"I've been burned by an agency before"** | Distrust; fear of jargon and predatory contracts | "I get it — that's why we do the opposite. Free teardown first so you see exactly what you're getting, $0 down, don't pay until you love it, cancel anytime, and you own the site. No jargon, no lock-in. You see my face and my process before you spend a dollar." |
 | **"What if it doesn't work / it's a waste of money"** | Risk fear | Stack the de-risk: "That's why it's $0 down and you don't pay the build until you love it — plus a 90-day leads guarantee. The risk is on me, not you. And I'll show you client results before you decide." |
 | **"This is too complicated / I don't understand this stuff"** | Overwhelm; fear of being made to feel dumb | "You don't have to understand any of it — that's my job. You run [the trade], I run the website. If I ever use a word you didn't ask for, call me out." |
-| **"Why should I trust some guy on TikTok?"** | Stranger-danger | Lead with proof + local: "Fair. Here's a site I built for a [City] [niche] down the road, here's his text saying his phone won't stop ringing, and here's a free teardown of *your* site so you can judge me before you spend anything." |
-| **"I'll get to it later / it's not a priority"** | No trigger yet | Attach it to a trigger + soft scarcity: "Later usually means after you lose a job you can name. I'm taking 3 [City] [niche] businesses this month — want me to just show you for free what you're currently losing?" |
+| **"Why should I trust some guy on TikTok?"** | Stranger-danger | Lead with proof + specifics: "Fair. Here's a site I built for a [trade] just like you, here's his text saying his phone won't stop ringing, and here's a free teardown of *your* site so you can judge me before you spend anything." |
+| **"I'll get to it later / it's not a priority"** | No trigger yet | Attach it to a trigger + soft scarcity: "Later usually means after you lose a job you can name. I'm only taking on a handful of [trade] businesses this month — want me to just show you for free what you're currently losing?" |
 
 > **Objection = content.** Make a dedicated talking-head for each big one: *"Stop saying 'I have a Facebook page,'"* *"'I get business by word of mouth' — read this,"* *"You didn't fail at Wix."* They're evergreen search assets *and* they pre-handle the objection before the DM ever lands.
 
@@ -194,7 +198,7 @@ Owners **rarely buy from a rational cost argument.** They buy off an emotional t
 | **Rebrand / new logo / name change** | Fresh identity that the old site doesn't match | "New name, new logo, same dead website? Your online presence just started lying about you." |
 | **New location / expanding service area** | Opening a second spot or growing the map | "Opening a second location? Google doesn't know you serve there yet — here's how to fix that." |
 | **A bad review / thin review presence** | A fresh 1-star, or no reviews showing anywhere | "One bad review can bury you — unless your site puts your best ones front and center." |
-| **"That's my site" moment** | They saw a teardown of a business *just like theirs* | This is why the teardown pillar exists — a plumber watching a plumber teardown self-identifies in the comments. |
+| **"That's my site" moment** | They saw a teardown of a business *just like theirs* | This is why the teardown pillar exists — a plumber watching a plumber teardown self-identifies in the comments. Trade-specific teardowns are our single biggest trigger. |
 
 ### Financial triggers
 
@@ -210,35 +214,36 @@ Owners **rarely buy from a rational cost argument.** They buy off an emotional t
 
 ## 8. Trust Signals a TikTok Viewer Needs Before Buying
 
-A stranger will not DM money without clearing "stranger-danger." Stack these signals so the leap from *watcher → deposit* feels safe. This is the trust bridge that lets the whole funnel work.
+A stranger will not DM money without clearing "stranger-danger." Because our audience is national — people who've never met us and can't drive past our office — the trust bridge has to do *more* work, not less. Stack these signals so the leap from *watcher → deposit* feels safe. This is the trust bridge that lets the whole funnel work.
 
 **The trust stack (build all of these):**
 
 1. **A consistent real face + voice.** Show your face 3–5x/week. Faceless caps you at low-ticket work; people book *people*. Use the hybrid face-cam-bubble-over-screen-recording for money/teardown videos.
-2. **Before/after teardowns of businesses *like theirs*, ideally in their city.** "People like me, near me" makes it feel relevant and safe — directly attacking the "not relevant to my industry" belief.
+2. **Before/after teardowns of businesses *like theirs*, in their trade.** "People in my trade, with my exact problem" makes it feel relevant and safe — directly attacking the "not relevant to my industry" belief. Trade match matters more than location.
 3. **Screen-recorded proof of *results*, not aesthetics.** Client texts ("phone won't stop ringing"), Google call-clicks before vs. after, "2 to 11 leads a month." Buyers purchase revenue, not typography. This is your pinned, fence-sitter-converting content.
 4. **Transparent "starts at" pricing.** "$0 down, $199/mo" or "$500 vs $5,000 website" pre-qualifies budget and reads as honest, not slick. Vague "contact us for a quote" reads as risky.
-5. **A real portfolio / real sites you've built.** Actual live [City] sites you can point to.
+5. **A real portfolio / real sites you've built.** Actual live sites for real trades businesses you can point to — bonus if they span multiple states, proving you deliver anywhere.
 6. **Reviews on the *agency itself*,** not just client sites — Google reviews / testimonials about working with you.
 7. **A de-risked offer, visible up front.** Free teardown, 7-day launch, $0 down, don't-pay-until-you-love-it, 90-day leads guarantee, cancel anytime. Low risk converts better than low price.
-8. **Local specificity.** Say the city and niche out loud in the first line. "I build websites for [City] contractors."
-9. **Process / founder BTS transparency.** Show how the 7-day build actually works, a real client kickoff call, launch day. Seeing the process de-risks the purchase.
+8. **Trade specificity.** Say the trade out loud in the first line. "I build websites for HVAC companies." Naming the trade — not a city — is what makes a national viewer feel spoken to.
+9. **Process / founder BTS transparency.** Show how the 7-day build actually works, a real client kickoff call, launch day. Seeing the process de-risks the purchase — and proves the whole thing runs remotely, which is exactly how you'd serve them.
 10. **Posting consistency.** Showing up on a fixed cadence (4 posts/week for 90 days) *is itself* a trust signal — it proves you're a real operating business, not a fly-by-night.
 
-**Fastest single trust-builder:** a before/after of a business exactly like theirs in [City], with a hard result overlaid. If a viewer sees that plus your face plus a free-first-step, the DM comes.
+**Fastest single trust-builder:** a before/after of a business in the *same trade*, with a hard result overlaid. If a viewer sees that plus your face plus a free-first-step, the DM comes.
 
 ---
 
 ## 9. Put It Into Content Tomorrow (quick reference)
 
 - **Lead with:** "you're invisible when customers look for you" — never "sites are cheap now."
-- **Niche the series:** one vertical at a time (start with the seven in §3). Say it out loud.
-- **Open with the 9pm Google test** — it works for every niche and dissolves the #1 objection.
+- **Niche the series:** one trade at a time (start with the seven in §3). Say the trade out loud, not a city.
+- **Open with the 9pm Google test** — it works for every trade and dissolves the #1 objection.
 - **Sell the free audit, never the build.** Keep 70–80% educational/entertaining, 20–30% offer.
 - **Every feature → a job.** "The phone rings," not "responsive design."
 - **Validate before you critique.** Praise the hustle/word-of-mouth, *then* show the gap.
 - **CTA stays dead simple:** "Comment AUDIT and I'll send your free teardown."
-- **Aim content at trigger moments** (§7) — rebrand, competitor, embarrassment, lost deal.
+- **Aim content at trigger moments** (§7) — rebrand, competitor, embarrassment, lost deal, and the "that's my site" teardown moment.
+- **Remember reach matters now.** The audience is national, so buyer-intent isn't the only goal — trade-specific content that *travels* is how we get in front of a plumber three states away.
 - **Judge success by qualified DMs and booked calls,** not views or followers.
 
 > **Consistency check:** This doc is the source of truth for positioning, ICP, pains, objections, triggers, and trust signals. The Content Pillars, Funnel, Offer Ladder, and Scripts docs all build on it — if anything downstream contradicts what's here, this doc wins.
