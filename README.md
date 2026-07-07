@@ -90,6 +90,7 @@ Lead cold TikTok buyers to the **$0-down monthly** option — it kills sticker s
 | 08 | [`docs/08-algorithm-and-optimization.md`](docs/08-algorithm-and-optimization.md) | How the 2025–2026 TikTok algorithm actually ranks you: completion rate, search SEO weights, hashtags, cadence, and the golden hour. |
 | 09 | [`docs/09-tracking-and-tools.md`](docs/09-tracking-and-tools.md) | The minimal tool stack (Calendly, ManyChat, email, link hub) plus UTM attribution and the weekly KPI dashboard. |
 | 10 | [`docs/10-weekend-1-shoot-pack.md`](docs/10-weekend-1-shoot-pack.md) | **Start here to film:** 8 complete, ready-to-shoot videos ordered to batch-film in ~90 minutes — pick up your phone and go. |
+| 11 | [`docs/11-faceless-ai-production.md`](docs/11-faceless-ai-production.md) | **Faceless / pure-AI variant:** the 3 production lanes, AI toolchain, one-voice brand system, and a repeatable generate-don't-film pipeline. |
 
 ---
 
